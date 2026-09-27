@@ -57,7 +57,3 @@ The full implementation, visual comparisons, PSNR calculations, analysis, and co
 
 `PCD_Assignment02.ipynb`
 
-## Author
-
-**Ni Wayan Regina Raytana Putri**  
-Computer Science, Universitas Gadjah Mada
